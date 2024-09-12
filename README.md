@@ -1,4 +1,4 @@
-# _Cardano Corner_
+# Cardano Corner
 **Where Cardano Projects can find events and venues to send merch to.**
 
 ## What's this?
