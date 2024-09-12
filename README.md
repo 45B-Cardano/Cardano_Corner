@@ -1,5 +1,5 @@
 # Cardano_Corner
-**Where Cardano Projects can find events and venues to send march to.**
+**Where Cardano Projects can find events and venues to send merch to.**
 
 ## What's this?
 Motivated by hosting Lisbon's Cardano Constitutional Workshop, 45B is setting up a supply meets demand space between:
