@@ -20,5 +20,5 @@ Projects available to send merch/posters/etc to events and _Cardano Corners_.
 | ----------------------------------------- | ------------ | ---------------------------------------------------- |
 | [Acme Example project](https://acme.not/) | joe@acme.not | Reach out to us if you have events in central Europe |
 
-Please submit PRs adding your details above or simply email us at hello@45b.io
+Please submit PRs adding your details above or simply email us at hello@45b.io 
 [This](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) may help you prepare contents for your PR. 🤓
