@@ -23,6 +23,8 @@ _Mail us at hello@45b.io to get listed here , or submit a PR._
 | [Acme Example project](https://acme.not/) | joe@acme.not | Reach out to us if you have events in central Europe |
 
 ## Aditional info
+**Help promote this** by [retweeting](https://x.com/45B_Cardano/status/1834032586261438581) and sharing with friends!
+
 [This](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) may help you prepare contents for your PR. 🤓
 
-Find out more about 45B at [45B.io](https://45b.io)
+**Find out more about** 45B at [45B.io](https://45b.io)
