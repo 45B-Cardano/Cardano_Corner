@@ -4,7 +4,7 @@
 ## What's this?
 Motivated by hosting Lisbon's Cardano Constitutional Workshop, 45B is setting up a supply meets demand space between:
 - IRL **Cardano events** happening soon anywhere in the world
-- **Cardano projects** that may want to send merch/flyers to be available there.
+- **Cardano projects** that may want to send merch, flyers, stickers, posters to events/venues.
 
 We named this _Cardano corner_ as it may also help establish some _Cardano corner_ pins on Google maps for coworks/venues/cafés that may want to promote having (at least) a box full of stickers and merch that visitors can pick and take from.
 
